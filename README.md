@@ -1,7 +1,7 @@
-### Hello✌, I´m Manuel Gerdel, a full stack web developer.
+### Hello✌, I´m Manuel Gerdel
 
 - 💻 Full-stack web developer.
-- 🌱 I’m currently learning React and Flask.
+- 🌱 I’m currently learning more about React and Flask.
 - 👯 I’m looking to collaborate on new projects to grow in experience.
 - 💬 I enjoy working on technologies like:
  • HTML • CSS • Boostrap • React • Flask
