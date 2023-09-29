@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello✌, I´m Manuel Gerdel, a full stack web developer.
 
-<!--
-**manuelgerdel/manuelgerdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 💻 Full-stack web developer.
+• 🌱 I’m currently learning React and Flask.
+• 👯 I’m looking to collaborate on new projects to grow in experience.
+ 💬 I enjoy working on technologies like: , React and Flask.
+- HTML.
+- CSS.
+- Boostrap.
+- React.
+- Flask.
+• 📫 How to reach me: manuelgerdelm@gmail.com
+• ⚡ Fun fact: I like sports.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
